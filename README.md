@@ -13,6 +13,7 @@ The wheels occasionally dispensed two marbles at a time. To stop this, the speed
 # Implement the Solution
 Lego pieces were built around the path leading to the wheels, a stopper was put in between the wheels and the speed in the was increased to allow one marble to be dispensed at a time.   
 
+
 ![image](https://github.com/user-attachments/assets/11df4af4-dd0e-48e5-b9ec-ff6578732c43)
 Figure 1.1. Sketch of the first demo for the dispenser.
 
@@ -22,3 +23,5 @@ Figure 1.2. Sketch of design for the barcode reader.
 ![image](https://github.com/user-attachments/assets/98af7704-5e43-4a84-940e-36644cccb29d)
 Figure 1.3. Sketch of sorter.
 
+![image](https://github.com/user-attachments/assets/f9b9f3e9-0d40-4c81-ab00-5e663dd65762)
+Figure 1.4. Final design prototype.
