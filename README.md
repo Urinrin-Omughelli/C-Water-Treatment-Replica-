@@ -24,4 +24,6 @@ Figure 1.2. Sketch of design for the barcode reader.
 Figure 1.3. Sketch of sorter.
 
 ![image](https://github.com/user-attachments/assets/f9b9f3e9-0d40-4c81-ab00-5e663dd65762)
+
+
 Figure 1.4. Final design prototype.
